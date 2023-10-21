@@ -7,7 +7,7 @@ Console.WriteLine("******************Question 1******************");
     int number = int.Parse(Console.ReadLine());
 
     if (number % 2 == 0)
-    {
+    {ss
         Console.WriteLine("The number is even."); 
     }
     else
